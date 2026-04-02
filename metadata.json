@@ -1,0 +1,7 @@
+{
+  "name": "NIC Asia Digital Bank",
+  "description": "A high-converting, modern digital banking platform for NIC Asia Bank Nepal, optimized for growth and user trust.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
